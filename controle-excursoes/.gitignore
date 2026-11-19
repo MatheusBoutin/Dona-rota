@@ -1,0 +1,19 @@
+# Dependências
+node_modules/
+
+# Ambiente
+.env
+.env.*
+!.env.example
+
+# Builds
+dist/
+coverage/
+
+# Logs
+*.log
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
